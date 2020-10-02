@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'MAITHILY PANDE', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    tagline: 'Continuously improving, Aspiring technologist.',
     profilePhoto: 'img/profile.png',
     url: 'https://pmaithily.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/maithily-pande/',
+        linkedin: 'maithily-pande',
         twitter: '',
-        github: 'https://github.com/pmaithily/',
+        github: 'pmaithily',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
